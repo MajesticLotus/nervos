@@ -7,7 +7,7 @@
 2) Link to Layer 1 Address:
 
 
-3) A screenshot of the console output immediately after you have successfully submitted a CKByte deposit to your Tron account on Layer 2:
+3) A screenshot of the console output after submitted a CKByte deposit to your Tron account on Layer 2:
 
 ![]()
 
@@ -15,7 +15,7 @@
 
 ![]()
 
-5)The transaction hash of the "Contract call" from the console output:
+5) The transaction hash of the "Contract call" from the console output:
 ```
 
 ```
