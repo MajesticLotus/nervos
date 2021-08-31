@@ -6,10 +6,12 @@
 
 2) Link to Layer 1 Address:
 
+https://explorer.nervos.org/aggron/address/ckt1qyq27z2s5f6njase9mrxw65s60j368z5xltscsnq3k
 
 3) A screenshot of the console output after submitted a CKByte deposit to your Tron account on Layer 2:
 
-![]()
+![](./trondeposit.png)
+![](./trondeposits.png)
 
 4) A screenshot of the console output immediately after you have successfully issued a smart contract calls on Layer 2:
 
